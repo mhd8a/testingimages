@@ -2,12 +2,12 @@
 
 ---
 
-<!-- Html Elements for Search 
+<!-- Html Elements for Search -->
 <div id="search-container" stype ="float: left;">
 <input type="text" id="search-input" placeholder="searching....">
 <ul id="results-container"> </ul>
 </div>
--->
+
 <!-- Script pointing to search-script.js -->
 <script src="./js/search-script.js" type="text/javascript"> </script>
 
