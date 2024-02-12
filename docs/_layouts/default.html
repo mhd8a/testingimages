@@ -17,12 +17,28 @@
     <script src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
     {% endif %}
+    <style>
+      .logo-container {
+        position: absolute;
+        top: 10px; /* Adjust top position as needed */
+        right: 10px; /* Adjust right position as needed */
+        z-index: 9999; /* Ensure the logo appears above other elements */
+      }
+
+      .logo-image {
+        max-width: 100px; /* Adjust max-width as needed */
+        height: auto;
+      }
+    </style>
   </head>
 
   <body>
     <div class="chrome">
       {% include navbar.html %}
       <div class="chrome:body">
+        <div class="logo-container">
+        <img src="/path/to/your/logo.png" alt="Logo" class="logo-image">
+        </div>
         {% include header.html %}
         <div class="chrome:content">
           <div class="chrome:main">
