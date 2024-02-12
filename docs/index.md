@@ -3,7 +3,6 @@
 ---
 
 <!-- Html Elements for Search -->
-<!-- <div id="search-container" stype ="float: left;"> -->
 <div id="search-container" style ="float: left;">
 <input type="text" id="search-input" placeholder="searching....">
 <ul id="results-container"> </ul>
