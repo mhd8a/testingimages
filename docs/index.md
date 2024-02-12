@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 <!-- Html Elements for Search -->
