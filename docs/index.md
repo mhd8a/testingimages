@@ -4,7 +4,7 @@
 
 <!-- Html Elements for Search -->
 <div id="search-container" stype ="float: left;">
-<input type="text" id="search-input" placeholder="Search....">
+<input type="text" id="search-input" placeholder="Search...." style="outline: 2px solid blue;">
 <ul id="results-container"> </ul>
 </div>
 
