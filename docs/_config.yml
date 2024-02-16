@@ -28,7 +28,7 @@ url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g
 # github_username:  jekyll
 # include:
 sidebar:
-  - home
+  - introduction
   - label: Integration Tools
     children:
       - fossid OpenSource
