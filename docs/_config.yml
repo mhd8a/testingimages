@@ -28,12 +28,13 @@ url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g
 # github_username:  jekyll
 # include:
 sidebar:
-  - Home
+  - home
   - label: Integration Tools
     children:
       - fossid OpenSource
       - rOS Installation
       - sonarqube Code Scanning
+  - publish a file
 # Build settings
 # remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # remote_theme: pages-themes/merlot@v0.2.0
