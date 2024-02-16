@@ -12,3 +12,4 @@ You can publish your file by opening the **Publish** sub-menu and by clicking **
 - HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
 
 ![files](https://github.com/mhd8a/demopages/assets/139964315/fb149e9a-df06-4b7a-a71a-43f3cac14e01)
+![fils](/images/files.png)
