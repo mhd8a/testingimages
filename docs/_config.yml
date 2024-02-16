@@ -27,13 +27,6 @@ url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g
 # twitter_username: jekyllrb
 # github_username:  jekyll
 # include:
-sidebar:
-      - Home
-      - label: Integeration Tools
-        children:
-             - Fossid OpenSource
-             - ROS Installation
-             - Sonarqube Code Scanning
 # Build settings
 # remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # remote_theme: pages-themes/merlot@v0.2.0
