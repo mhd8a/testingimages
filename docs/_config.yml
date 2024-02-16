@@ -37,12 +37,13 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # plugins:
   # - jekyll-simple-search
 sidebar:
-    - Home
-      label: Integration Tools
+  - Home
+  - label: Integration Tools
       children:
-          - fossid OpenSource
-          - rOS Installation
-          - sonarqube Code Scanning
+        - fossid OpenSource
+        - rOS Installation
+        - sonarqube Code Scanning 
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
