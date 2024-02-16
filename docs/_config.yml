@@ -36,13 +36,6 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
   # - jekyll-simple-search
-sidebar:
-  - Home
-  - label: Integration Tools
-    children:
-      - fossid OpenSource
-      - rOS Installation
-      - sonarqube Code Scanning 
     
 # Exclude from processing.
 # The following items will not be processed, by default.
