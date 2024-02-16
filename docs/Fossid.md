@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fossid OpenSource
+id: fossid OpenSource
+---
 # Fossid
 A new, major, software update is now available for all customers and for evaluation purposes for prospects. The recent “21.2” release brings significant updates to the Software Composition Analysis tool for Enterprise, including improvements in the user interface, automatic component identification, OAuth2.0 authentication with Azure AD, and more.
 
