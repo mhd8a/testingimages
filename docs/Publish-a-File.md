@@ -1,3 +1,9 @@
+---
+layout: default
+title: Publish a File
+id: publish a file
+---
+
 # Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
